@@ -18,7 +18,7 @@
 </a>
 <a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript><img align=left alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </a>
-<a href=https://www.arduino.cc/><img align=left alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<a href=https://www.arduino.cc/><img alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
 </a>
 
 ### My Tools
