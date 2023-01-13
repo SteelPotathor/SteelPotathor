@@ -1,11 +1,5 @@
 <h1 align="center"> SteelPotathor The Limitless Grinder</h1>
 
-
-<h3 align=center>A passionate French Student</h3>
-</br>
-
-- 📫 Contact me **timothee.da_costa_cantante@etud.univ-jfc.fr**
-
 ### My Languages
 
 <a href=https://www.python.org/><img align=left alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
